@@ -8,7 +8,7 @@
     "commander": "latest",
     "https": "latest"
   },
-  "name": "show-info",
+  "name": "show_info",
   "version": "1.0.0",
   "description": "quickly get general information about a tv show ",
   "main": "episode-info.js",
