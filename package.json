@@ -11,7 +11,7 @@
   "name": "show_info",
   "version": "1.0.0",
   "description": "quickly get general information about a tv show ",
-  "main": "episode-info.js",
+  "main": "show_info.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
