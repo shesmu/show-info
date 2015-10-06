@@ -8,7 +8,7 @@
     "commander": "latest",
     "https": "latest"
   },
-  "name": "episode-info",
+  "name": "show-info",
   "version": "1.0.0",
   "description": "quickly get general information about a tv show ",
   "main": "episode-info.js",
@@ -28,5 +28,13 @@
     "netflix"
   ],
   "author": "shesmu",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shesmu/show-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shesmu/show-info/issues"
+  },
+  "homepage": "https://github.com/shesmu/show-info#readme"
 }
