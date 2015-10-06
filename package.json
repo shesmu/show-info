@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest",
+    "inquirer": "latest",
+    "open": "latest",
+    "commander": "latest",
+    "https": "latest"
+  },
+  "name": "episode-info",
+  "version": "1.0.0",
+  "description": "quickly get general information about a tv show ",
+  "main": "episode-info.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tv",
+    "show",
+    "episode",
+    "torrent",
+    "media",
+    "info",
+    "information",
+    "binge",
+    "netflix"
+  ],
+  "author": "shesmu",
+  "license": "MIT"
+}
