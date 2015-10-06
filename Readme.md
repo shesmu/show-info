@@ -7,6 +7,8 @@ Pull information on tv shows
 #Usage
 Pass the show-info function a string for the show to get, the final object will be passed to the callback function.
 
+`var show_info = require('show_info');`
+
 `show_info('rick and morty', callback);`
 
 `function callback (show){
