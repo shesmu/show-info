@@ -9,11 +9,9 @@ Pass the show-info function a string for the show to get, the final object will 
 
 `var show_info = require('show_info');`
 
-`show_info('rick and morty', callback);`
-
-`function callback (show){
+`show_info('rick and morty', function(show){
 	console.log(show.img);
-}`
+});`
 
 #Object values
 
